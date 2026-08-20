@@ -1,4 +1,4 @@
-#FRAMNEWORKS BACKEND
+FRAMNEWORKS BACKEND
 
-##practica 0
-###introducción a repsoitorios con git
+practica 0
+introducción a repsoitorios con git
